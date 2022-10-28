@@ -1,3 +1,7 @@
 # TURMAF
 
-• Meu projeto é um site 
+• kosloki Açaí's
+
+•licença de uso 
+
+- https://lorany13.github.io/TURMAF/
